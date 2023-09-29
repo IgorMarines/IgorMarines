@@ -10,11 +10,6 @@ Sou o Igor, um(a) desenvolvedor(a) apaixonado(a) por tecnologia.
 
 🌱 **Atualmente Estou Aprendendo:**
 - Aprofundando meus conhecimentos em ReactJS
-- Explorando Machine Learning com Python
-
-💼 **Projetos:**
-- [Projeto 1](link-para-o-projeto-1): Uma breve descrição do projeto.
-- [Projeto 2](link-para-o-projeto-2): Uma breve descrição do projeto.
 
 📫 **Como Me Encontrar:**
 - [LinkedIn](https://www.linkedin.com/in/igormarines/)
