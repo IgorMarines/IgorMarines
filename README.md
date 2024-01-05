@@ -4,7 +4,7 @@ Sou o Igor, um(a) desenvolvedor(a) apaixonado(a) por tecnologia.
 
 🚀 **Tecnologias e Ferramentas:**
 - **Frontend:** HTML, CSS, JavaScript, ReactJS, TypeScript, MUI, Styled-Components, Redux, Redux-Sagas, Cypress[...]
-- **Backend:** 
+- **Backend:** EXPRESS
 - **Banco de Dados:** MySQL, SQLITE
 - **Outros:** Git
 
