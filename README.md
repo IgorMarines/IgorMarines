@@ -1,51 +1,26 @@
 
 # Olá 👋, eu sou o Igor!
 
-### Desenvolvedor apaixonado por tecnologia, buscando sempre aprender e evoluir.
+Desenvolvedor apaixonado por tecnologia, sempre aprendendo e evoluindo.
 
-![Visualizações de perfil](https://komarev.com/ghpvc/?username=igormarines&label=Profile%20views&color=0e75b6&style=flat)
+![Visualizações](https://komarev.com/ghpvc/?username=igormarines&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-**Frontend:**
+**Frontend:** HTML5, CSS3, JavaScript, React, Vue.js, TypeScript, Material-UI, Styled Components, Redux, Redux-Saga, Cypress  
+**Backend:** Express.js, PHP, Laravel  
+**Banco de Dados:** MySQL, SQLite  
+**Outros:** Git, Beekeper
 
-- HTML5
-- CSS3
-- JavaScript
-- React
-- Vue.js
-- TypeScript
-- Material-UI
-- Styled Components
-- Redux
-- Redux-Saga
-- Cypress
+## 📫 Contato
 
-**Backend:**
+[LinkedIn](https://www.linkedin.com/in/igormarines/) | [Portfolio](https://portfolio-1enablex.vercel.app/)
 
-- Express.js
-- Php
-- Laravel
+## 📊 GitHub Stats
 
-**Banco de Dados:**
+![Linguagens Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igormarines&layout=compact&theme=radical&card_width=445)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igormarines&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
 
-- MySQL
-- SQLite
-
-**Outros:**
-
-- Git
-- Beekeper
-
-## 📫 Como Me Encontrar
-
-- [LinkedIn](https://www.linkedin.com/in/igormarines/)
-- [Portfolio](https://portfolio-1enablex.vercel.app/)
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=igormarines&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=igormarines&layout=compact&theme=radical)
 
 ---
 
