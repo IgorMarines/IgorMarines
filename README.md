@@ -37,10 +37,6 @@
 - Git
 - Beekeper
 
-## 🌱 Atualmente Estou Aprendendo
-
-- Aprofundando meus conhecimentos em ReactJS
-
 ## 📫 Como Me Encontrar
 
 - [LinkedIn](https://www.linkedin.com/in/igormarines/)
